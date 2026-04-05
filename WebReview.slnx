@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WebReview.API/WebReview.API.csproj" />
+  <Project Path="WebReview.Application/WebReview.Application.csproj" />
+  <Project Path="WebReview.Domain/WebReview.Domain.csproj" />
+  <Project Path="WebReview.Infrastructure/WebReview.Infrastructure.csproj" />
+</Solution>

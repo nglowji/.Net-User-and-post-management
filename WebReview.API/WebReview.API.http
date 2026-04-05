@@ -1,0 +1,6 @@
+@WebReview.API_HostAddress = http://localhost:5234
+
+GET {{WebReview.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
